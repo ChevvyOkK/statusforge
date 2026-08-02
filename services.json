@@ -1,0 +1,50 @@
+[
+  {
+    "id": "portfolio-site",
+    "name": "Портфолио",
+    "url": "https://portfolio-site-tau-three-91.vercel.app",
+    "project": "https://github.com/ChevvyOkK/portfolio-site"
+  },
+  {
+    "id": "skillforge-web",
+    "name": "SkillForge (фронтенд)",
+    "url": "https://skillforge-rouge-six.vercel.app",
+    "project": "https://github.com/ChevvyOkK/skillforge"
+  },
+  {
+    "id": "skillforge-api",
+    "name": "SkillForge (API)",
+    "url": "https://skillforge-api-nii8.onrender.com/api/roadmaps",
+    "project": "https://github.com/ChevvyOkK/skillforge"
+  },
+  {
+    "id": "evosim",
+    "name": "EvoSim",
+    "url": "https://evosim-chevvy-okda.vercel.app",
+    "project": "https://github.com/ChevvyOkK/evosim"
+  },
+  {
+    "id": "aether-agency",
+    "name": "AetherAgency",
+    "url": "https://aether-agency-green.vercel.app",
+    "project": "https://github.com/ChevvyOkK/aether-agency"
+  },
+  {
+    "id": "nexuspc",
+    "name": "NexusPC",
+    "url": "https://nexuspc-kappa.vercel.app",
+    "project": "https://github.com/ChevvyOkK/nexuspc"
+  },
+  {
+    "id": "swarm-arena-server",
+    "name": "SwarmArena (сервер)",
+    "url": "https://swarm-arena-server.onrender.com/",
+    "project": "https://github.com/ChevvyOkK/swarm-arena-server"
+  },
+  {
+    "id": "swarm-arena-client",
+    "name": "SwarmArena (клиент)",
+    "url": "https://swarm-arena-client-am3r0wwh7-chevvy-okda.vercel.app",
+    "project": "https://github.com/ChevvyOkK/swarm-arena-client"
+  }
+]

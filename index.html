@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>StatusForge — статус всех сервисов портфолио</title>
+  <meta name="description" content="Живой мониторинг всех задеплоенных проектов портфолио — статус, задержка, аптайм. Без сервера и базы данных: GitHub Actions + git как хранилище.">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="page-header">
+    <div class="header-inner">
+      <div>
+        <h1>StatusForge</h1>
+        <p class="subtitle">Живой статус всех задеплоенных сервисов этого портфолио</p>
+      </div>
+      <div class="header-meta">
+        <span id="last-updated">Загрузка…</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <div class="note" id="note"></div>
+    <div class="grid" id="service-grid"></div>
+  </main>
+
+  <footer class="page-footer">
+    <p>
+      Обновляется примерно раз в 10 минут через
+      <a href="https://github.com/ChevvyOkK/statusforge/actions" target="_blank" rel="noopener noreferrer">GitHub Actions</a>
+      — без сервера и базы данных, git-репозиторий и есть хранилище.
+      <a href="https://github.com/ChevvyOkK/statusforge" target="_blank" rel="noopener noreferrer">Исходный код</a>
+    </p>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
