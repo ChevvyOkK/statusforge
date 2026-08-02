@@ -5,6 +5,12 @@
       "status": "up",
       "latencyMs": 319,
       "httpStatus": 200
+    },
+    {
+      "t": "2026-08-02T23:47:31.459Z",
+      "status": "up",
+      "latencyMs": 349,
+      "httpStatus": 200
     }
   ],
   "skillforge-web": [
@@ -12,6 +18,12 @@
       "t": "2026-08-02T23:44:01.210Z",
       "status": "up",
       "latencyMs": 122,
+      "httpStatus": 200
+    },
+    {
+      "t": "2026-08-02T23:47:31.459Z",
+      "status": "up",
+      "latencyMs": 368,
       "httpStatus": 200
     }
   ],
@@ -21,6 +33,12 @@
       "status": "up",
       "latencyMs": 262,
       "httpStatus": 401
+    },
+    {
+      "t": "2026-08-02T23:47:31.459Z",
+      "status": "up",
+      "latencyMs": 76,
+      "httpStatus": 401
     }
   ],
   "evosim": [
@@ -28,6 +46,12 @@
       "t": "2026-08-02T23:44:01.210Z",
       "status": "up",
       "latencyMs": 115,
+      "httpStatus": 200
+    },
+    {
+      "t": "2026-08-02T23:47:31.459Z",
+      "status": "up",
+      "latencyMs": 282,
       "httpStatus": 200
     }
   ],
@@ -37,6 +61,12 @@
       "status": "up",
       "latencyMs": 122,
       "httpStatus": 200
+    },
+    {
+      "t": "2026-08-02T23:47:31.459Z",
+      "status": "up",
+      "latencyMs": 156,
+      "httpStatus": 200
     }
   ],
   "nexuspc": [
@@ -44,6 +74,12 @@
       "t": "2026-08-02T23:44:01.210Z",
       "status": "up",
       "latencyMs": 115,
+      "httpStatus": 200
+    },
+    {
+      "t": "2026-08-02T23:47:31.459Z",
+      "status": "up",
+      "latencyMs": 60,
       "httpStatus": 200
     }
   ],
@@ -53,6 +89,12 @@
       "status": "up",
       "latencyMs": 673,
       "httpStatus": 200
+    },
+    {
+      "t": "2026-08-02T23:47:31.459Z",
+      "status": "up",
+      "latencyMs": 81,
+      "httpStatus": 200
     }
   ],
   "swarm-arena-client": [
@@ -60,6 +102,12 @@
       "t": "2026-08-02T23:44:01.210Z",
       "status": "up",
       "latencyMs": 115,
+      "httpStatus": 200
+    },
+    {
+      "t": "2026-08-02T23:47:31.459Z",
+      "status": "up",
+      "latencyMs": 176,
       "httpStatus": 200
     }
   ]
