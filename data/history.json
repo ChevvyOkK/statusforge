@@ -47,6 +47,12 @@
       "status": "up",
       "latencyMs": 487,
       "httpStatus": 200
+    },
+    {
+      "t": "2026-08-03T17:19:25.041Z",
+      "status": "up",
+      "latencyMs": 422,
+      "httpStatus": 200
     }
   ],
   "skillforge-web": [
@@ -96,6 +102,12 @@
       "t": "2026-08-03T15:09:24.037Z",
       "status": "up",
       "latencyMs": 403,
+      "httpStatus": 200
+    },
+    {
+      "t": "2026-08-03T17:19:25.041Z",
+      "status": "up",
+      "latencyMs": 299,
       "httpStatus": 200
     }
   ],
@@ -147,6 +159,12 @@
       "status": "up",
       "latencyMs": 31240,
       "httpStatus": 401
+    },
+    {
+      "t": "2026-08-03T17:19:25.041Z",
+      "status": "up",
+      "latencyMs": 32200,
+      "httpStatus": 401
     }
   ],
   "evosim": [
@@ -196,6 +214,12 @@
       "t": "2026-08-03T15:09:24.037Z",
       "status": "up",
       "latencyMs": 198,
+      "httpStatus": 200
+    },
+    {
+      "t": "2026-08-03T17:19:25.041Z",
+      "status": "up",
+      "latencyMs": 287,
       "httpStatus": 200
     }
   ],
@@ -247,6 +271,12 @@
       "status": "up",
       "latencyMs": 318,
       "httpStatus": 200
+    },
+    {
+      "t": "2026-08-03T17:19:25.041Z",
+      "status": "up",
+      "latencyMs": 40,
+      "httpStatus": 200
     }
   ],
   "nexuspc": [
@@ -296,6 +326,12 @@
       "t": "2026-08-03T15:09:24.037Z",
       "status": "up",
       "latencyMs": 225,
+      "httpStatus": 200
+    },
+    {
+      "t": "2026-08-03T17:19:25.041Z",
+      "status": "up",
+      "latencyMs": 260,
       "httpStatus": 200
     }
   ],
@@ -347,6 +383,12 @@
       "status": "up",
       "latencyMs": 30369,
       "httpStatus": 200
+    },
+    {
+      "t": "2026-08-03T17:19:25.041Z",
+      "status": "up",
+      "latencyMs": 11150,
+      "httpStatus": 200
     }
   ],
   "swarm-arena-client": [
@@ -396,6 +438,12 @@
       "t": "2026-08-03T15:09:24.037Z",
       "status": "up",
       "latencyMs": 222,
+      "httpStatus": 200
+    },
+    {
+      "t": "2026-08-03T17:19:25.041Z",
+      "status": "up",
+      "latencyMs": 148,
       "httpStatus": 200
     }
   ]
