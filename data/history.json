@@ -605,6 +605,12 @@
       "status": "up",
       "latencyMs": 238,
       "httpStatus": 200
+    },
+    {
+      "t": "2026-08-09T05:05:06.397Z",
+      "status": "up",
+      "latencyMs": 228,
+      "httpStatus": 200
     }
   ],
   "skillforge-web": [
@@ -1212,6 +1218,12 @@
       "t": "2026-08-09T03:54:27.818Z",
       "status": "up",
       "latencyMs": 233,
+      "httpStatus": 200
+    },
+    {
+      "t": "2026-08-09T05:05:06.397Z",
+      "status": "up",
+      "latencyMs": 102,
       "httpStatus": 200
     }
   ],
@@ -1821,6 +1833,12 @@
       "status": "up",
       "latencyMs": 21443,
       "httpStatus": 401
+    },
+    {
+      "t": "2026-08-09T05:05:06.397Z",
+      "status": "up",
+      "latencyMs": 21236,
+      "httpStatus": 401
     }
   ],
   "evosim": [
@@ -2428,6 +2446,12 @@
       "t": "2026-08-09T03:54:27.818Z",
       "status": "up",
       "latencyMs": 114,
+      "httpStatus": 200
+    },
+    {
+      "t": "2026-08-09T05:05:06.397Z",
+      "status": "up",
+      "latencyMs": 149,
       "httpStatus": 200
     }
   ],
@@ -3037,6 +3061,12 @@
       "status": "up",
       "latencyMs": 160,
       "httpStatus": 200
+    },
+    {
+      "t": "2026-08-09T05:05:06.397Z",
+      "status": "up",
+      "latencyMs": 135,
+      "httpStatus": 200
     }
   ],
   "nexuspc": [
@@ -3644,6 +3674,12 @@
       "t": "2026-08-09T03:54:27.818Z",
       "status": "up",
       "latencyMs": 79,
+      "httpStatus": 200
+    },
+    {
+      "t": "2026-08-09T05:05:06.397Z",
+      "status": "up",
+      "latencyMs": 132,
       "httpStatus": 200
     }
   ],
@@ -4253,6 +4289,12 @@
       "status": "up",
       "latencyMs": 12249,
       "httpStatus": 200
+    },
+    {
+      "t": "2026-08-09T05:05:06.397Z",
+      "status": "up",
+      "latencyMs": 11234,
+      "httpStatus": 200
     }
   ],
   "swarm-arena-client": [
@@ -4860,6 +4902,12 @@
       "t": "2026-08-09T03:54:27.818Z",
       "status": "up",
       "latencyMs": 86,
+      "httpStatus": 200
+    },
+    {
+      "t": "2026-08-09T05:05:06.397Z",
+      "status": "up",
+      "latencyMs": 105,
       "httpStatus": 200
     }
   ]
