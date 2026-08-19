@@ -2597,6 +2597,12 @@
       "status": "up",
       "latencyMs": 1196,
       "httpStatus": 200
+    },
+    {
+      "t": "2026-08-19T19:35:47.277Z",
+      "status": "up",
+      "latencyMs": 1269,
+      "httpStatus": 200
     }
   ],
   "skillforge-web": [
@@ -5196,6 +5202,12 @@
       "t": "2026-08-19T19:06:10.314Z",
       "status": "up",
       "latencyMs": 213,
+      "httpStatus": 200
+    },
+    {
+      "t": "2026-08-19T19:35:47.277Z",
+      "status": "up",
+      "latencyMs": 275,
       "httpStatus": 200
     }
   ],
@@ -7797,6 +7809,12 @@
       "status": "up",
       "latencyMs": 31414,
       "httpStatus": 401
+    },
+    {
+      "t": "2026-08-19T19:35:47.277Z",
+      "status": "up",
+      "latencyMs": 41235,
+      "httpStatus": 401
     }
   ],
   "evosim": [
@@ -10396,6 +10414,12 @@
       "t": "2026-08-19T19:06:10.314Z",
       "status": "up",
       "latencyMs": 45,
+      "httpStatus": 200
+    },
+    {
+      "t": "2026-08-19T19:35:47.277Z",
+      "status": "up",
+      "latencyMs": 110,
       "httpStatus": 200
     }
   ],
@@ -12997,6 +13021,12 @@
       "status": "up",
       "latencyMs": 79,
       "httpStatus": 200
+    },
+    {
+      "t": "2026-08-19T19:35:47.277Z",
+      "status": "up",
+      "latencyMs": 251,
+      "httpStatus": 200
     }
   ],
   "nexuspc": [
@@ -15596,6 +15626,12 @@
       "t": "2026-08-19T19:06:10.314Z",
       "status": "up",
       "latencyMs": 48,
+      "httpStatus": 200
+    },
+    {
+      "t": "2026-08-19T19:35:47.277Z",
+      "status": "up",
+      "latencyMs": 238,
       "httpStatus": 200
     }
   ],
@@ -18197,6 +18233,12 @@
       "status": "up",
       "latencyMs": 21409,
       "httpStatus": 200
+    },
+    {
+      "t": "2026-08-19T19:35:47.277Z",
+      "status": "up",
+      "latencyMs": 12234,
+      "httpStatus": 200
     }
   ],
   "swarm-arena-client": [
@@ -20796,6 +20838,12 @@
       "t": "2026-08-19T19:06:10.314Z",
       "status": "up",
       "latencyMs": 75,
+      "httpStatus": 200
+    },
+    {
+      "t": "2026-08-19T19:35:47.277Z",
+      "status": "up",
+      "latencyMs": 106,
       "httpStatus": 200
     }
   ]
