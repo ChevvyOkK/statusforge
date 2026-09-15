@@ -1,12 +1,6 @@
 {
   "portfolio-site": [
     {
-      "t": "2026-08-16T19:09:01.525Z",
-      "status": "up",
-      "latencyMs": 973,
-      "httpStatus": 200
-    },
-    {
       "t": "2026-08-16T19:32:44.682Z",
       "status": "up",
       "latencyMs": 936,
@@ -2999,15 +2993,15 @@
       "status": "up",
       "latencyMs": 1740,
       "httpStatus": 200
+    },
+    {
+      "t": "2026-09-15T12:14:04.855Z",
+      "status": "up",
+      "latencyMs": 1471,
+      "httpStatus": 200
     }
   ],
   "skillforge-web": [
-    {
-      "t": "2026-08-16T19:09:01.525Z",
-      "status": "up",
-      "latencyMs": 189,
-      "httpStatus": 200
-    },
     {
       "t": "2026-08-16T19:32:44.682Z",
       "status": "up",
@@ -6001,15 +5995,15 @@
       "status": "up",
       "latencyMs": 352,
       "httpStatus": 200
+    },
+    {
+      "t": "2026-09-15T12:14:04.855Z",
+      "status": "up",
+      "latencyMs": 334,
+      "httpStatus": 200
     }
   ],
   "skillforge-api": [
-    {
-      "t": "2026-08-16T19:09:01.525Z",
-      "status": "up",
-      "latencyMs": 31347,
-      "httpStatus": 401
-    },
     {
       "t": "2026-08-16T19:32:44.682Z",
       "status": "up",
@@ -9003,15 +8997,15 @@
       "status": "up",
       "latencyMs": 31194,
       "httpStatus": 401
+    },
+    {
+      "t": "2026-09-15T12:14:04.855Z",
+      "status": "up",
+      "latencyMs": 41203,
+      "httpStatus": 401
     }
   ],
   "evosim": [
-    {
-      "t": "2026-08-16T19:09:01.525Z",
-      "status": "up",
-      "latencyMs": 137,
-      "httpStatus": 200
-    },
     {
       "t": "2026-08-16T19:32:44.682Z",
       "status": "up",
@@ -12005,15 +11999,15 @@
       "status": "up",
       "latencyMs": 436,
       "httpStatus": 200
+    },
+    {
+      "t": "2026-09-15T12:14:04.855Z",
+      "status": "up",
+      "latencyMs": 206,
+      "httpStatus": 200
     }
   ],
   "aether-agency": [
-    {
-      "t": "2026-08-16T19:09:01.525Z",
-      "status": "up",
-      "latencyMs": 120,
-      "httpStatus": 200
-    },
     {
       "t": "2026-08-16T19:32:44.682Z",
       "status": "up",
@@ -15007,15 +15001,15 @@
       "status": "up",
       "latencyMs": 271,
       "httpStatus": 200
+    },
+    {
+      "t": "2026-09-15T12:14:04.855Z",
+      "status": "up",
+      "latencyMs": 218,
+      "httpStatus": 200
     }
   ],
   "nexuspc": [
-    {
-      "t": "2026-08-16T19:09:01.525Z",
-      "status": "up",
-      "latencyMs": 116,
-      "httpStatus": 200
-    },
     {
       "t": "2026-08-16T19:32:44.682Z",
       "status": "up",
@@ -18009,15 +18003,15 @@
       "status": "up",
       "latencyMs": 447,
       "httpStatus": 200
+    },
+    {
+      "t": "2026-09-15T12:14:04.855Z",
+      "status": "up",
+      "latencyMs": 207,
+      "httpStatus": 200
     }
   ],
   "swarm-arena-server": [
-    {
-      "t": "2026-08-16T19:09:01.525Z",
-      "status": "up",
-      "latencyMs": 11257,
-      "httpStatus": 200
-    },
     {
       "t": "2026-08-16T19:32:44.682Z",
       "status": "up",
@@ -21011,15 +21005,15 @@
       "status": "up",
       "latencyMs": 11179,
       "httpStatus": 200
+    },
+    {
+      "t": "2026-09-15T12:14:04.855Z",
+      "status": "up",
+      "latencyMs": 11199,
+      "httpStatus": 200
     }
   ],
   "swarm-arena-client": [
-    {
-      "t": "2026-08-16T19:09:01.525Z",
-      "status": "up",
-      "latencyMs": 124,
-      "httpStatus": 200
-    },
     {
       "t": "2026-08-16T19:32:44.682Z",
       "status": "up",
@@ -24012,6 +24006,12 @@
       "t": "2026-09-15T06:47:00.613Z",
       "status": "up",
       "latencyMs": 297,
+      "httpStatus": 200
+    },
+    {
+      "t": "2026-09-15T12:14:04.855Z",
+      "status": "up",
+      "latencyMs": 225,
       "httpStatus": 200
     }
   ]
